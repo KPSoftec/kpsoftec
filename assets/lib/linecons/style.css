@@ -173,3 +173,6 @@
 .li_world:before {
 	content: "\e02f";
 }
+.li_ear:before{
+	content: "\E701";
+}
